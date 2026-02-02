@@ -51,7 +51,7 @@ Master-Master — двунаправленная репликация, где о
 
 mysqld.cnf
 
-![Задание 2](https://github.com/Freezing22/sdb-hw-12-02/blob/main/img/PNG1.png)
+![Задание 2](https://github.com/Freezing22/sdb-hw-12-02/blob/main/img/PNG3.png)
 
 Статус работы: 
 
@@ -62,7 +62,7 @@ mysqld.cnf
 
 mysqld.cnf
 
-![Задание 2](https://github.com/Freezing22/sdb-hw-12-02/blob/main/img/PNG3.png)
+![Задание 2](https://github.com/Freezing22/sdb-hw-12-02/blob/main/img/PNG1.png)
 
 Статус работы: 
 
