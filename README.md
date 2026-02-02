@@ -52,14 +52,28 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 ### Ответ
 
 ![Задание 1](https://github.com/Freezing22/sdb-hw-11-04/blob/main/img/PNG1.png)
+
+
 Выполните запрос на получение списка пользователей в базе данных. (скриншот)
 ![Задание 2](https://github.com/Freezing22/sdb-hw-11-04/blob/main/img/PNG2.png)
+
+
 ![Задание 3](https://github.com/Freezing22/sdb-hw-11-04/blob/main/img/PNG3.png)
+
+
 Выполните запрос на получение списка прав для пользователя sys_temp. (скриншот)
 ![Задание 4](https://github.com/Freezing22/sdb-hw-11-04/blob/main/img/PNG4.png)
+
+
 ![Задание 5](https://github.com/Freezing22/sdb-hw-11-04/blob/main/img/PNG5.png)
+
+
 ![Задание 6](https://github.com/Freezing22/sdb-hw-11-04/blob/main/img/PNG6.png)
+
+
 ![Задание 7](https://github.com/Freezing22/sdb-hw-11-04/blob/main/img/PNG7.png)
+
+
 ![Задание 8](https://github.com/Freezing22/sdb-hw-11-04/blob/main/img/PNG8.png)
 
 ---
