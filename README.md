@@ -53,14 +53,14 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 
 ![Задание 1](https://github.com/Freezing22/sdb-hw-11-04/blob/main/img/PNG1.png)
 Выполните запрос на получение списка пользователей в базе данных. (скриншот)
-![Задание 1](https://github.com/Freezing22/sdb-hw-11-04/blob/main/img/PNG2.png)
-![Задание 1](https://github.com/Freezing22/sdb-hw-11-04/blob/main/img/PNG3.png)
+![Задание 2](https://github.com/Freezing22/sdb-hw-11-04/blob/main/img/PNG2.png)
+![Задание 3](https://github.com/Freezing22/sdb-hw-11-04/blob/main/img/PNG3.png)
 Выполните запрос на получение списка прав для пользователя sys_temp. (скриншот)
-![Задание 1](https://github.com/Freezing22/sdb-hw-11-04/blob/main/img/PNG4.png)
-![Задание 1](https://github.com/Freezing22/sdb-hw-11-04/blob/main/img/PNG5.png)
-![Задание 1](https://github.com/Freezing22/sdb-hw-11-04/blob/main/img/PNG6.png)
-![Задание 1](https://github.com/Freezing22/sdb-hw-11-04/blob/main/img/PNG7.png)
-![Задание 1](https://github.com/Freezing22/sdb-hw-11-04/blob/main/img/PNG8.png)
+![Задание 4](https://github.com/Freezing22/sdb-hw-11-04/blob/main/img/PNG4.png)
+![Задание 5](https://github.com/Freezing22/sdb-hw-11-04/blob/main/img/PNG5.png)
+![Задание 6](https://github.com/Freezing22/sdb-hw-11-04/blob/main/img/PNG6.png)
+![Задание 7](https://github.com/Freezing22/sdb-hw-11-04/blob/main/img/PNG7.png)
+![Задание 8](https://github.com/Freezing22/sdb-hw-11-04/blob/main/img/PNG8.png)
 
 ---
 
@@ -74,7 +74,7 @@ customer         | customer_id
 
 ### Ответ
 
-![Задание 2](https://github.com/Freezing22/sdb-hw-11-04/blob/main/img/PNG9.png)
+![Задание 9](https://github.com/Freezing22/sdb-hw-11-04/blob/main/img/PNG9.png)
 
 | table_name | primary_key |
 | --- | --- |
