@@ -98,13 +98,13 @@ Fail2ban на попытки сканирования nmap с ключами н�
 
 #### Suricata
 
-![Задание 2](https://github.com/Freezing22/sdb-hw-13-03/blob/main/img/PNG3.png)
+![Задание 2](https://github.com/Freezing22/sdb-hw-13-03/blob/main/img/PNG4.png)
 
 Suricata обнаружила сканирование SSH
 
 #### Fail2ban
 
-![Задание 2](https://github.com/Freezing22/sdb-hw-13-03/blob/main/img/PNG4.png)
+![Задание 2](https://github.com/Freezing22/sdb-hw-13-03/blob/main/img/PNG3.png)
 
 Fail2ban обанружил попытки подбора и забанил.
 
