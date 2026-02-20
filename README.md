@@ -47,7 +47,7 @@ nmap обнаружил порт ssh и доступность хоста.
 
 #### Suricata
 
-![Задание 1](https://github.com/Freezing22/sdb-hw-12-08/blob/main/img/PNG1.png)
+![Задание 1](https://github.com/Freezing22/sdb-hw-13-03/blob/main/img/PNG1.png)
 
 Сканирование nmap с опцией -sA (агрессивное сканирование) - ничего подозрительного, Suricata не реагировал. 
 
@@ -61,7 +61,7 @@ Cканирование nmap с опцией -sV (сканирование с о
 
 #### Fail2ban
 
-![Задание 1](https://github.com/Freezing22/sdb-hw-12-08/blob/main/img/PNG2.png)
+![Задание 1](https://github.com/Freezing22/sdb-hw-13-03/blob/main/img/PNG2.png)
 
 
 Fail2ban на попытки сканирования nmap с ключами никак не отриагировал.
@@ -98,13 +98,13 @@ Fail2ban на попытки сканирования nmap с ключами н�
 
 #### Suricata
 
-![Задание 2](https://github.com/Freezing22/sdb-hw-12-08/blob/main/img/PNG3.png)
+![Задание 2](https://github.com/Freezing22/sdb-hw-13-03/blob/main/img/PNG3.png)
 
 Suricata обнаружила сканирование SSH
 
 #### Fail2ban
 
-![Задание 2](https://github.com/Freezing22/sdb-hw-12-08/blob/main/img/PNG4.png)
+![Задание 2](https://github.com/Freezing22/sdb-hw-13-03/blob/main/img/PNG4.png)
 
 Fail2ban обанружил попытки подбора и забанил.
 
